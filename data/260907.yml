@@ -5,18 +5,18 @@ about:
   head: 11cdf46
   archived: false
   latestVersion: "v0.8.2"
-  collectedAt: 2026-09-07T05:12:38Z
+  collectedAt: 2026-09-07T19:20:03Z
 timeline:
   created: 2023-06-30
   lastCommit: 2026-01-21
   lastRelease: 2025-03-09
 popularity:
-  star: 70247
+  star: 70252
   watcher: 920
   fork: 8933
   release: 22
   contributor: 113
-  pullRequest: 1084
+  pullRequest: 1086
   issue: 976
 language:
   Python: 3214882
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 0
-    openPR: 7
+    openPR: 9
     closedIssue: 0
     openIssue: 7
     commit: 0
@@ -38,7 +38,7 @@ recent:
     since: 2026-07-09
     release: 0
     mergedPR: 0
-    openPR: 14
+    openPR: 16
     closedIssue: 4
     openIssue: 11
     commit: 0
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-09
     release: 0
     mergedPR: 0
-    openPR: 23
+    openPR: 25
     closedIssue: 18
     openIssue: 12
     commit: 0
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-11
     release: 0
     mergedPR: 0
-    openPR: 51
+    openPR: 53
     closedIssue: 59
     openIssue: 13
     commit: 0
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-12
     release: 0
     mergedPR: 1
-    openPR: 76
+    openPR: 78
     closedIssue: 96
     openIssue: 13
     commit: 2
@@ -70,20 +70,20 @@ recent:
     since: 2024-09-17
     release: 1
     mergedPR: 72
-    openPR: 112
+    openPR: 114
     closedIssue: 339
     openIssue: 13
     commit: 561
 total:
   release: 22
   mergedPR: 673
-  openPR: 118
+  openPR: 120
   closedIssue: 963
   openIssue: 13
   commit: 6367
 ---
 path: /home/runner/.x-repo/github.com/FoundationAgents/MetaGPT
-collectedAt: 2026-09-07T05:12:49Z
+collectedAt: 2026-09-07T19:20:13Z
 loc:
   Python:
     code: 72008
@@ -164,7 +164,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:12:51+00:00
+  collectedAt: 2026-09-07T19:20:15+00:00
   platform:
     darwin/arm64:
       name:  null
