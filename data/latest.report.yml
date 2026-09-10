@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.2"
   latestRelease: "v0.8.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:31:53Z
+  collectedAt: 2026-09-10T17:04:38Z
 timeline:
   created: 2023-06-30
   lastCommit: 2026-01-21
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-03-09
   lastPrerelease: 
 popularity:
-  star: 70291
+  star: 70299
   watcher: 921
-  fork: 8937
+  fork: 8936
   release: 22
   contributor: 113
   pullRequest: 1086
@@ -87,7 +87,7 @@ total:
   commit: 6367
 ---
 path: /home/runner/.x-repo/github.com/FoundationAgents/MetaGPT
-collectedAt: 2026-09-10T05:32:04Z
+collectedAt: 2026-09-10T17:04:58Z
 loc:
   Python:
     code: 72008
