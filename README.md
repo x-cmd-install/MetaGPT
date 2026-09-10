@@ -12,6 +12,18 @@
 x install MetaGPT
 ```
 
+## Code insight
+
+Total: **82,682** lines of code across **1006** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 72,008 | 3,462 | 13,335 | 889 |
+| Json | 7,877 | 0 | 15 | 68 |
+| JavaScript | 926 | 74 | 132 | 15 |
+| Yaml | 566 | 70 | 45 | 26 |
+| TypeScript | 534 | 167 | 81 | 8 |
+
 ## Source
 
 - **Upstream**: <https://github.com/FoundationAgents/MetaGPT>
@@ -25,7 +37,7 @@ x install MetaGPT
 
 ## Popularity
 
-- **Stars**: 70,299 · **Forks**: 8,936 · **Open issues**: 978 · **Contributors**: 113
+- **Stars**: 70,302 · **Forks**: 8,936 · **Open issues**: 978 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -36,20 +48,11 @@ x install MetaGPT
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 9 | 1 | 8 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 15 | 5 | 12 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 24 | 19 | 13 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 52 | 57 | 14 | 0 |
 | 360d | 2025-09-15 | 0 | 1 | 77 | 97 | 14 | 2 |
-
-## Code size
-
-Total: **82,682** lines of code across **1006** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 72,008 | 3,462 | 13,335 | 889 |
-| Json | 7,877 | 0 | 15 | 68 |
-| JavaScript | 926 | 74 | 132 | 15 |
-| Yaml | 566 | 70 | 45 | 26 |
-| TypeScript | 534 | 167 | 81 | 8 |
+| last720d | 2024-09-20 | 1 | 72 | 114 | 337 | 14 | 551 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for MetaGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:05:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:57:30Z._
