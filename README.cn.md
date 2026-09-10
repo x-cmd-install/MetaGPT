@@ -4,7 +4,7 @@
 
 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-![MetaGPT](https://repo.x-cmd.io/MetaGPT.svg)
+![MetaGPT](https://repo.x-cmd.io/MetaGPT.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,10 @@ x install MetaGPT
 
 - **最新版本**: `v0.8.2` (2025-03-09)
 - **最近提交**: 2026-01-21
-- **发布时间**: 2024-04-22T10:56:23Z
 
 ## 流行度
 
-- **Star**: 70,291 · **Fork**: 8,937 · **开放 issue**: 978 · **贡献者**: 113
+- **Star**: 70,299 · **Fork**: 8,936 · **开放 issue**: 978 · **贡献者**: 113
 
 ## 累计统计
 
@@ -61,4 +60,4 @@ MetaGPT 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:32:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:05:04Z._
