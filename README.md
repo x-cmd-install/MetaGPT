@@ -4,7 +4,7 @@
 
 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-![MetaGPT](https://repo.x-cmd.io/MetaGPT.svg)
+[![x-cmd/install — MetaGPT Code Quality Monitoring Repo Card](https://repo.x-cmd.io/MetaGPT.svg)](https://x-cmd.com/install/MetaGPT)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **82,682** lines of code across **1006** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 70,484 · **Forks**: 8,955 · **Open issues**: 978 · **Contributors**: 113
+- **Stars**: 70,514 · **Forks**: 8,962 · **Open issues**: 978 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 673 · **Open PRs**: 121 · **Closed issues**: 968 · **Open issues**: 10 · **Commits**: 6367
+- **Releases**: 22 · **Merged PRs**: 673 · **Open PRs**: 123 · **Closed issues**: 967 · **Open issues**: 11 · **Commits**: 6367
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 8 | 1 | 4 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 14 | 5 | 8 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 23 | 16 | 10 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 51 | 53 | 10 | 0 |
-| 360d | 2025-09-23 | 0 | 1 | 78 | 98 | 10 | 2 |
-| last720d | 2024-09-28 | 1 | 71 | 114 | 338 | 10 | 498 |
+| 30d | 2026-08-21 | 0 | 0 | 10 | 1 | 5 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 16 | 4 | 9 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 25 | 16 | 11 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 51 | 51 | 11 | 0 |
+| 360d | 2025-09-25 | 0 | 1 | 80 | 97 | 11 | 2 |
+| last720d | 2024-09-30 | 1 | 70 | 116 | 336 | 11 | 481 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for MetaGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:35:26Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:08Z._
