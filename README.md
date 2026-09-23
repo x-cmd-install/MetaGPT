@@ -4,7 +4,7 @@
 
 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 
-[![x-cmd/install — MetaGPT Code Quality Monitoring Repo Card](https://repo.x-cmd.io/MetaGPT.svg)](https://x-cmd.com/install/MetaGPT)
+[![x-cmd/install — MetaGPT Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/MetaGPT.svg)](https://x-cmd.com/install/MetaGPT)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **82,682** lines of code across **1006** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 70,547 · **Forks**: 8,963 · **Open issues**: 979 · **Contributors**: 113
+- **Stars**: 70,566 · **Forks**: 8,964 · **Open issues**: 979 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 22 · **Merged PRs**: 673 · **Open PRs**: 123 · **Closed issues**: 967 · **Open issues**: 12 · **Commits**: 6367
+- **Releases**: 22 · **Merged PRs**: 673 · **Open PRs**: 125 · **Closed issues**: 967 · **Open issues**: 12 · **Commits**: 6367
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 7 | 1 | 5 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 14 | 3 | 10 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 24 | 12 | 12 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 47 | 51 | 12 | 0 |
-| 360d | 2025-09-27 | 0 | 1 | 78 | 95 | 12 | 2 |
-| last720d | 2024-10-02 | 1 | 70 | 116 | 336 | 12 | 480 |
+| 30d | 2026-08-24 | 0 | 0 | 9 | 1 | 5 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 16 | 3 | 10 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 26 | 12 | 12 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 49 | 51 | 12 | 0 |
+| 360d | 2025-09-28 | 0 | 1 | 79 | 95 | 12 | 2 |
+| last720d | 2024-10-03 | 1 | 69 | 118 | 335 | 12 | 480 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for MetaGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:56:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:36:20Z._
