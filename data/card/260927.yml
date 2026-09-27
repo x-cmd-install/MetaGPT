@@ -167,4 +167,3 @@ total:
 ---
 
 ---
-{"id":152175615,"author":{"login":"geekan","id":2707039,"node_id":"MDQ6VXNlcjI3MDcwMzk=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOJ182U84JEgP_","tag_name":"v0.8.1","target_commitish":"main","name":"Patch release: v0.8.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2024-04-22T10:53:52Z","updated_at":"2024-04-22T11:46:19Z","published_at":"2024-04-22T10:56:23Z","assets":[],"body":"fix bug","reactions":{"total_count":24,"+1":20,"-1":0,"laugh":2,"hooray":0,"confused":0,"heart":1,"rocket":0,"eyes":1}}
