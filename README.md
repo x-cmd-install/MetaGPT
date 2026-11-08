@@ -37,7 +37,7 @@ Total: **82,682** lines of code across **1006** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,205 · **Forks**: 9,094 · **Open issues**: 991 · **Contributors**: 113
+- **Stars**: 71,214 · **Forks**: 9,103 · **Open issues**: 991 · **Contributors**: 113
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **82,682** lines of code across **1006** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 0 | 20 | 0 | 6 | 0 |
-| last60d | 2026-09-08 | 0 | 0 | 30 | 2 | 10 | 0 |
-| 90d | 2026-08-09 | 0 | 0 | 34 | 10 | 10 | 0 |
-| last180d | 2026-05-11 | 0 | 0 | 55 | 43 | 11 | 0 |
-| 360d | 2025-11-12 | 0 | 0 | 95 | 104 | 11 | 0 |
-| last720d | 2024-11-17 | 1 | 34 | 126 | 280 | 11 | 179 |
+| 30d | 2026-10-09 | 0 | 0 | 17 | 0 | 6 | 0 |
+| last60d | 2026-09-09 | 0 | 0 | 30 | 2 | 10 | 0 |
+| 90d | 2026-08-10 | 0 | 0 | 34 | 10 | 10 | 0 |
+| last180d | 2026-05-12 | 0 | 0 | 55 | 43 | 11 | 0 |
+| 360d | 2025-11-13 | 0 | 0 | 95 | 103 | 11 | 0 |
+| last720d | 2024-11-18 | 1 | 34 | 126 | 279 | 11 | 179 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for MetaGPT lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:37:37Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:34:00Z._
